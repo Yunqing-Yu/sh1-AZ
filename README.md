@@ -14,4 +14,4 @@ If you use the data or scripts from this repository in your research, please cit
 
 The YABBY gene Shattering1 controls activation rather than patterning of the abscission zone in _Setaria viridis_
 
-Yunqing Yu, Hao Hu, Colby G. Starker, Daniel F. Voytas, Andrew N. Doust, Elizabeth A. Kellogg1<sup>*</sup>
+Yunqing Yu, Hao Hu, Colby G. Starker, Daniel F. Voytas, Andrew N. Doust, Elizabeth A. Kellogg<sup>*</sup>
